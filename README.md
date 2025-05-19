@@ -93,3 +93,7 @@ Este código foi desenvolvido no contexto do **LabSEA**, com o objetivo de auxil
 Este projeto pode ser utilizado livremente para fins acadêmicos e educacionais. Para outros usos, consulte a equipe responsável pelo LabSEA.
 
 ---
+
+## 📬 Contato
+
+Para dúvidas ou sugestões, entre em contato com o time do **LabSEA**.
